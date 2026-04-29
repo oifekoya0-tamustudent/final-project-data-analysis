@@ -15,7 +15,7 @@ This project analyses [AI-Powered Smart Waste Management System for Urban Cities
 - What insights can help cities move toward smarter and more sustainable waste systems?
 
 ## Video
-[Paste your video link here]
+[https://youtu.be/pNDVFZZoHGE]
 
 ## Data
 
