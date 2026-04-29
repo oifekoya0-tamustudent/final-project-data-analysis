@@ -1,6 +1,6 @@
 Start here: main_notebook.ipynb
 
-# final-project-data-analysis
+# Final project Data Analysis
 
 ## Overview
 This project analyses [AI-Powered Smart Waste Management System for Urban Cities].
@@ -14,6 +14,8 @@ This project analyses [AI-Powered Smart Waste Management System for Urban Cities
 - How can optimised waste collection reduce operational costs and environmental impact?
 - What insights can help cities move toward smarter and more sustainable waste systems?
 
+## Video
+[Paste your video link here]
 
 ## Data
 
